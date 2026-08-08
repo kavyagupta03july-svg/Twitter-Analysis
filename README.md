@@ -263,8 +263,6 @@ algorithms. Figure 2 illustrates various features seen in micro-blogging.
 Table 3 illustrates the frequency of these features per tweet, cut by
 datasets. We also give a brief description of pre-processing steps taken.
 
-![Figure](http://i.imgur.com/KqJnVTx.png)
-
 Figure 2: Illustration of a Tweet with various features
 
 <div style="text-align:center">
